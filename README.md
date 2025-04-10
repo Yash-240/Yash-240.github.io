@@ -1,6 +1,6 @@
-## Portfolio 
+## PORTFOLIO 
 
-### Data Engineer | M.Sc. Web and Data Science, Universität Koblenz, DE.  
+### Data Engineer | M.Sc. Web and Data Science
 <p align='justify'>Data-driven Business Intelligence professional with 3+ years of experience in data engineering and analysis. I have a strong background in data integration, modeling, and ETL processes, with a recent master's degree in web and data science, specializing in Big Data, Machine Learning, and AI. Throughout my career, I have optimized ETL processes, collaborated with business stakeholders, and managed data warehouses while leveraging SQL for complex data management </p>
 ---
 
@@ -8,21 +8,21 @@
 
 | **Category**            | **Tools / Technologies**                                                                 |
 |-------------------------|------------------------------------------------------------------------------------------|
-| Programming / Scripting | Python, SQL, Java, Pandas, NumPy                                                        |
-| Data Engineering        | AWS Glue, Redshift, Kafka, Airflow, Spark, Data Modeling, Snowflake, Data Warehousing   |
+| Programming / Scripting | Python, SQL, Java, Pandas, NumPy                                                         |
+| Data Engineering        | AWS Glue, Redshift, Kafka, Airflow, Spark, Data Modeling, Snowflake, Data Warehousing    |
 | Data Science            | Machine Learning, Deep Learning, PyTorch, scikit-learn, Matplotlib, LLMs, Hadoop, Big Data |
-| Cloud & BI Tools        | AWS Cloud, MSSQL, Amazon Redshift, Power BI, SSMS, SSIS, SSRS                |
-| Project Management      | Agile, Atlassian Stack (Confluence, Jira), Automic, Bitbucket                                      |
-| Other Skills / Language | Data Governance, MS Excel, Linux, MS Office, English (Fluent), Deutsch (Beginner)       |
+| Cloud & BI Tools        | AWS Cloud, MSSQL, Amazon Redshift, Power BI, SSMS, SSIS, SSRS                            |
+| Project Management      | Agile, Atlassian Stack (Confluence, Jira), Automic, Bitbucket                            |
+| Other Skills / Language | Data Governance, MS Excel, Linux, MS Office, English (Fluent), Deutsch (Beginner)        |
 
 
 <p align='justify'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="auto" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="auto" height="30"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height='40' width='auto' alt="sql">
-  <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*mAgxrLGLbZupTrFV.png" alt="Spark" width="40" height="30"/>
-  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power_BI" width="40" height="30"/>
+  <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="auto" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*mAgxrLGLbZupTrFV.png" alt="Spark" width="auto" height="40"/>
+  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power_BI" width="auto" height="40"/>
 </p>
 ---
 
