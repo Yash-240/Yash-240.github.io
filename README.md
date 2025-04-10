@@ -1,23 +1,20 @@
-## Portfolio 🚀
+## Portfolio 
 
 ### Data Engineer | M.Sc. Web and Data Science, Universität Koblenz, DE.  
 <p align='justify'>Data-driven Business Intelligence professional with 3+ years of experience in data engineering and analysis. I have a strong background in data integration, modeling, and ETL processes, with a recent master's degree in web and data science, specializing in Big Data, Machine Learning, and AI. Throughout my career, I have optimized ETL processes, collaborated with business stakeholders, and managed data warehouses while leveraging SQL for complex data management </p>
 ---
 
-### Technical Skills 
-- **Programming / Scripting** = Python | SQL | Java | Pandas | NumPY 
+## Technical Skills 
 
-- **Data Engineering** = AWS Glue | Redshift | Kafka | Airflow | Spark | Data Modeling | Snowflake | Data Warehousing  
+| **Category**            | **Tools / Technologies**                                                                 |
+|-------------------------|------------------------------------------------------------------------------------------|
+| Programming / Scripting | Python, SQL, Java, Pandas, NumPy                                                        |
+| Data Engineering        | AWS Glue, Redshift, Kafka, Airflow, Spark, Data Modeling, Snowflake, Data Warehousing   |
+| Data Science            | Machine Learning, Deep Learning, PyTorch, scikit-learn, Matplotlib, LLMs, Hadoop, Big Data |
+| Cloud & BI Tools        | AWS Cloud, MSSQL, Amazon Redshift, Power BI, SSMS, SSIS, SSRS                |
+| Project Management      | Agile, Atlassian Stack (Confluence, Jira), Automic, Bitbucket                                      |
+| Other Skills / Language | Data Governance, MS Excel, Linux, MS Office, English (Fluent), Deutsch (Beginner)       |
 
-- **Data Science** = Machine Learning | Deep Learning | PyTorch | scikit-learn | Matplotlib | LLMs | Hadoop | Big data 
-
-- **Cloud** = AWS Cloud | MSSQL  Amazon Redshift
-
-- **BI & Project Management** = Power BI | Bitbucket | Agile | Atlassian stack (Confluence, Jira) | Automic | SSMS | SSIS | SSRS 
-
-- **Other Skills** = Data Governance and Security | MS Excel | Linux | MS Office 
-
-- **Language** = English (Fluent/Native Speaker), Deutsch (Beginner) 
 
 <p align='justify'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
@@ -53,7 +50,7 @@
 
 ---
 
-### 📂 Projects  
+## Projects  
 
 **Real-Time Data Pipeline and Analytical Processing**
 - <p align='justify'> Implemented a scalable real-time data pipeline that monitors a directory for incoming data, processes it based on specific criteria, and stores the transformed data in a relational database. </p>
